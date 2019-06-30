@@ -6,8 +6,8 @@
 # نصب ربات
 
 ```
-git clone https://github.com/Star-Speed/Speed-Star
-cd Speed-Star
+git clone https://github.com/pesari/py
+cd py
 chmod +x install.sh
 ./install.sh
 ```
